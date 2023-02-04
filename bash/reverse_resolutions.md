@@ -1,0 +1,2 @@
+# WindowsのbatchコマンドとUnix系のshellコマンドの対応表
+

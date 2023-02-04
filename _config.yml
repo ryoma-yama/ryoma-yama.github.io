@@ -1,4 +1,4 @@
 # Jekyll's Setting
 remote_theme: pages-themes/hacker@v0.2.0
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: hoge
+description: [Memos about Coding]
